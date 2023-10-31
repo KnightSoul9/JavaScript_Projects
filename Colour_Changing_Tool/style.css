@@ -1,0 +1,27 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+.canva#Grey{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+}
+
+#Yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+#Blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+#White{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
